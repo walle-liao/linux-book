@@ -1,2 +1,2 @@
 # linux-book
-linux 系统相关学校笔记
+linux 相关学习笔记
